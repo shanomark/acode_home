@@ -1,7 +1,57 @@
 [
   {
-    "position": "home_native",
-    "isShow": true,
-    "adsID": ""
-  }
+        "id":"ca-app-pub-2334640401367012/8176782578",
+        "is_show": true,
+        "position": "open_cold"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/1490509825",
+        "is_show": true,
+        "position": "open_hot"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "home_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "password_record_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "passwords_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "tfa_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "verify_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "wifi_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "gennerate_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "logos_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "back_inters"
+    },
 ]
